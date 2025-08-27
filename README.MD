@@ -1,6 +1,6 @@
-# 🦙 FlaskLlama3
+# 🦙 Mima - AI-Powered Activity Categorization API
 
-FlaskLlama3 is a Flask-based API that enables users to submit activity descriptions and receive AI-generated category recommendations using LLaMA3 (via Ollama). Final categorization is selected manually, with the AI acting as an intelligent assistant.
+Mima is a Flask-based REST API that uses local LLaMA3 (via Ollama) to provide intelligent activity categorization suggestions. Features PostgreSQL database integration, SQLAlchemy ORM, comprehensive logging, and response time tracking. Users submit activity descriptions and receive AI-generated category recommendations while maintaining manual control over final categorization decisions.
 
 ## 🚀 Features
 
