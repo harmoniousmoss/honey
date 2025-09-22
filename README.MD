@@ -1,6 +1,6 @@
-# 🦙 Mima - AI-Powered Activity Categorization API
+# 🦙 Honey - AI-Powered Activity Categorization API
 
-Mima is a Flask-based REST API that uses local LLaMA3 (via Ollama) to provide intelligent activity categorization suggestions. Features PostgreSQL database integration, SQLAlchemy ORM, comprehensive logging, and response time tracking. Users submit activity descriptions and receive AI-generated category recommendations while maintaining manual control over final categorization decisions.
+Honey is a Flask-based REST API that uses local LLaMA3 (via Ollama) to provide intelligent activity categorization suggestions. Features PostgreSQL database integration, SQLAlchemy ORM, comprehensive logging, and response time tracking. Users submit activity descriptions and receive AI-generated category recommendations while maintaining manual control over final categorization decisions.
 
 ## 🚀 Features
 
